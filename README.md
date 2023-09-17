@@ -1,2 +1,2 @@
 # udacity_repo
-Practice to use Git 
+This is a repository to gain familiarity with git and Github. 
